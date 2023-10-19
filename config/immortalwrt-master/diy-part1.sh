@@ -10,5 +10,5 @@
 # sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
 # other
-# rm -rf package/emortal/{autosamba,ipv6-helper}
+rm -rf package/emortal/{autosamba,ipv6-helper}
 
